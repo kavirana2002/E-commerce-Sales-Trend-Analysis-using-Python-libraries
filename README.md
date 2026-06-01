@@ -80,14 +80,14 @@ jupyter notebook ecommerce_analysis.ipynb
 
 ## 📷 Project Preview
 
-### Jupyter Notebook Preview
+### Customer Segment Distribution by Product Category
+Screenshot 2026-06-01 161733.png
 
+###  Category Market Share (By Volume)
+Screenshot 2026-06-01 161803.png
 
-### Monthly Sales Trend
-![Sales Trend](outputs/sales_trend.png)
-
-### Top Performing Products
-![Top Products](outputs/top_products.png)
+#### Weekly Sales Momentum 
+Screenshot 2026-06-01 161836.png
 
 ---
 
