@@ -48,8 +48,8 @@ ecommerce-sales-trend-analysis/
 ├── README.md                        # Project documentation
 ├── data/
 │   └── ecommerce_sales.csv         # Dataset used in the project
-├── outputs/
-│   ├── python -screenshots                 # preview of outputs
+└── screenshots/
+    └── notebook_preview.png        # Preview of Jupyter Notebook
 ```
 
 ---
@@ -77,13 +77,18 @@ jupyter notebook ecommerce_analysis.ipynb
 - Check the **outputs/** folder for saved charts
 
 ---
-### 📷 Project Preview
--# Customer Segment Distribution by Product Category
-- Screenshot 2026-06-01 161733.p
--# Category Market Share (By Volume)
-- Screenshot 2026-06-01 161803
--# Weekly Sales Momentum
--  Screenshot 2026-06-01 161836
+
+## 📷 Project Preview
+
+### Jupyter Notebook Preview
+
+
+### Monthly Sales Trend
+![Sales Trend](outputs/sales_trend.png)
+
+### Top Performing Products
+![Top Products](outputs/top_products.png)
+
 ---
 
 ## 📚 Key Learnings
