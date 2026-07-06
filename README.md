@@ -80,7 +80,11 @@ jupyter notebook ecommerce_analysis.ipynb
 
 ## 📷 Project Preview
 
-https://github.com/kavirana2002/E-commerce-Sales-Trend-Analysis-using-Python-libraries/tree/main/python%20-screenshots
+![Customer Segment Distribution](python%20-screenshots/Screenshot%202026-06-01%20161733.png)
+
+![Category Market Share](python%20-screenshots/Screenshot%202026-06-01%20161803.png)
+
+![Weekly Sales Momentum](python%20-screenshots/Screenshot%202026-06-01%20161836.png)
 
 ---
 
